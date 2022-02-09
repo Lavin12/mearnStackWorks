@@ -1,0 +1,75 @@
+body{
+   background-image: url(./IMAGES/wall6.webp);
+    background-size: cover;
+    background-position: center;
+    
+    
+    
+
+}
+
+
+img{
+    height: 42%;
+    width: 43%;
+    border-radius: 66px;
+    
+}
+div{
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    color: white;   
+    
+}
+
+
+h2{
+    position: sticky;
+    top: 0%;
+}
+
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+.row{
+    width: 28%;
+    height: 318px;
+    background-color: black;
+    border-radius: 10%;
+    
+    
+    
+}
+button{
+    
+    background-color: rgb(236, 247, 236);
+}
+.row1{
+    display: flex;
+    justify-content:space-between;
+    position: static;
+    
+}
+.col-1{
+    
+    background: black;
+}
+.col-2{
+    
+    background-color: black;
+}
+.col-3{
+    
+    background-color: black;
+    
+}
+a{
+    color: rgb(5, 5, 5);
+}
+h4{
+    font-family: 'Lobster', cursive;
+}

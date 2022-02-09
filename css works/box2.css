@@ -1,0 +1,37 @@
+div{
+    background-color: black;
+    width: 136px;
+    height: 220px;
+    margin-left: 200px;
+    margin-top: 300px;
+    padding: 1%;
+}
+
+#box1{
+    background-color: brown;
+    margin-top: 59px;
+    margin-left: 325px;
+}
+#box2{
+    background-color: rgb(31, 194, 104);
+    margin-top: -269px;
+    margin-left: 508px;
+    
+
+}
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+}
+#box3{
+    background-color: rgb(65, 145, 76);
+    margin-top: -249px;
+    margin-left: 691px;
+}
+#box4{
+    background-color: rgb(140, 187, 10);
+    margin-top: -268px;
+    margin-left: 880px;
+}

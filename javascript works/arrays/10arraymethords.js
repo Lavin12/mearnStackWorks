@@ -1,0 +1,7 @@
+//filtar()
+//map()
+//sort()
+//reduce()
+//find()
+//some()
+//dorEach()

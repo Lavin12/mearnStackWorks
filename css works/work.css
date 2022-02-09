@@ -1,0 +1,31 @@
+
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+}
+img{
+    width: 230px;
+    height: 280px;
+}
+h3{
+    color: white;
+}
+h5{
+    color: white;
+}
+div{
+    
+    width: 18%;
+    color: white;
+    float: left;
+    padding: 10px;
+    
+    
+}
+button{
+    background-color: yellow;
+    color: black;
+}
+

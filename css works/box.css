@@ -1,0 +1,17 @@
+div{
+    background-color: brown;
+    width: 200px;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: 300px;
+}
+#box1{
+    background-color: chartreuse;
+    margin-top: 100px;
+}
+#box2{
+    background-color: cyan;
+    margin-top: 200px;
+    
+
+}
